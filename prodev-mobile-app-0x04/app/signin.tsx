@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { View, Text, TextInput, TouchableOpacity, Image, ScrollView } from 'react-native';
-import { styles } from '../styles/_joinstyle';
+import { styles } from '../styles/_join';
 import { GOOGLELOGO, FACEBOOKLOGO } from '../constants';
 import { useRouter } from 'expo-router';
 import { Ionicons } from '@expo/vector-icons';
